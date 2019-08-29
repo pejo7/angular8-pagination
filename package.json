@@ -1,0 +1,30 @@
+{
+  "name": "agnular8-pagination",
+  "version": "0.0.4",
+  "license": "MIT",
+  "author": "Idan Peled",
+  "keywords": [
+    "angular",
+    "pagination",
+    "client",
+    "angular8",
+    "pager"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^8.0.3",
+    "@angular/core": "^8.0.3"
+  },
+  "main": "bundles/ng-pagination.umd.js",
+  "module": "fesm5/ng-pagination.js",
+  "es2015": "fesm2015/ng-pagination.js",
+  "esm5": "esm5/ng-pagination.js",
+  "esm2015": "esm2015/ng-pagination.js",
+  "fesm5": "fesm5/ng-pagination.js",
+  "fesm2015": "fesm2015/ng-pagination.js",
+  "typings": "ng-pagination.d.ts",
+  "metadata": "ng-pagination.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
