@@ -44,8 +44,14 @@ maxPage: Amount of links to paginate. (5/10) (default 5)
 pageItems: Output the paginated array to show.
 ```
 
-## Authors
+# Authors
 
 * **Idan Peled**
+
+# Links
+
+Git: https://github.com/pejo7/angular8-pagination
+
+Issues: https://github.com/pejo7/angular8-pagination/issues
 
 

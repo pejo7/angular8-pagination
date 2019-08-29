@@ -1,6 +1,6 @@
 {
   "name": "agnular8-pagination",
-  "version": "0.0.4",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Idan Peled",
   "keywords": [
@@ -8,7 +8,9 @@
     "pagination",
     "client",
     "angular8",
-    "pager"
+    "pager",
+    "paginator",
+    "navigation"
   ],
   "peerDependencies": {
     "@angular/common": "^8.0.3",
